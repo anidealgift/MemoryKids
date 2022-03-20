@@ -30,7 +30,7 @@ twitter_username: anidealgift
 github_username:  anidealgift
 
 # Build settings
-theme: cayman
+theme: Cayman
 plugins:
   - jekyll-feed
 
