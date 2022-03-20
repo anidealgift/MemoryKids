@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Terms & Conditions
 
 By downloading or using the game, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the game. You’re not allowed to copy, or modify the game, any part of the game, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the game, and you also shouldn’t try to translate the game into other languages, or make derivative versions. The game itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Cinnamon Works.

@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Privacy Policy
 
 Cinnamon Works built the Memory Kids game as a Freemium game. This SERVICE is provided by Cinnamon Works at no cost and is intended for use as is.
